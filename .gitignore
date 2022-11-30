@@ -1,8 +1,3 @@
-# Docs
-.~lock.пособие_проект_октябрь_2022.docx#
-*.docx
-*.doc
-*.odt
 # Logs
 logs
 *.log
@@ -28,15 +23,3 @@ bower_components
 npm-debug.log
 .DS_Store
 .env
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/*.code-snippets
-
-# Local History for Visual Studio Code
-.history/
-
-# Built Visual Studio Code Extensions
-*.vsix
